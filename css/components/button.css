@@ -1,0 +1,9 @@
+.btn-skyblue {
+	background-color: #1651EB ;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color:#C1D5F2;
+	font-weight: 500;
+	font-size: smaller;
+	box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,14 @@
+.avatar {
+	width: 400px;
+	height: auto;
+	border-radius: 5%;
+}
+
+
+.small-image {
+	width: 200px;
+	height: auto;
+	border-radius: 6px;
+}
+
+
